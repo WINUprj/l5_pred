@@ -1,0 +1,3 @@
+sensor_msgs/CompressedImage data
+---
+int32 cls
