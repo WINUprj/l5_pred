@@ -14,7 +14,7 @@ dt-launchfile-init
 
 # launching app
 # dt-exec echo "This is an empty launch script. Update it to launch your application."
-dt-exec roslaunch digit_recognition digit_recognition_node.launch
+dt-exec roslaunch digit_recognition digit_recognition_node.launch veh:=csc22918
 
 
 # ----------------------------------------------------------------------------
